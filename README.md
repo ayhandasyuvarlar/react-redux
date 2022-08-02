@@ -1,6 +1,6 @@
 ## REACT-REDUX 🧑‍💻💯
-![img](./img/download.png)
-
+![img](https://miro.medium.com/max/850/1*8P3h5gAeaIDDHcNZVzE5pQ.png)
+       
 ### Hello my name is Ayhan. this is article what is redux? i will explain . 
 
 ## What is redux ?
